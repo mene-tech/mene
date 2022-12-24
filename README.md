@@ -1,8 +1,7 @@
-[![MasterHead](https://photos.app.goo.gl/AFVd7ee96AXFvRCj6.. )](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm MENE</h1>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mene-tech" alt="mene-tech" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/https://twitter.com/mene_demogul?t=1lcnohv_krvi4qts-gh5pg&s=09" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/mene_demogul?t=1lcnohv_krvi4qts-gh5pg&s=09?logo=twitter&style=for-the-badge" alt="https://twitter.com/mene_demogul?t=1lcnohv_krvi4qts-gh5pg&s=09" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@mene_demogul" target="blank"><img src="https://img.shields.io/twitter/follow/@mene_demogul?logo=twitter&style=for-the-badge" alt="@mene_demogul" /></a> </p>
 
 - 🔭 I’m currently working on **Open source projects and Clients projects.**
 
@@ -21,9 +20,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/@mene_demogul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@mene_demogul" height="30" width="40" /></a>
-<a href="https://twitter.com/https://twitter.com/mene_demogul?t=1lcnohv_krvi4qts-gh5pg&s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/mene_demogul?t=1lcnohv_krvi4qts-gh5pg&s=09" height="30" width="40" /></a>
+<a href="https://twitter.com/@mene_demogul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@mene_demogul" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ihuoma-emuchay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ihuoma-emuchay" height="30" width="40" /></a>
-<a href="https://medium.com/https://medium.com/@etica229" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@etica229" height="30" width="40" /></a>
+<a href="https://medium.com/@etica229" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@etica229" height="30" width="40" /></a>
 <a href="https://discord.gg/Mene#6198" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Mene#6198" height="30" width="40" /></a>
 </p>
 
@@ -33,4 +32,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mene-tech&show_icons=true&locale=en&layout=compact" alt="mene-tech" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mene-tech&show_icons=true&locale=en" alt="mene-tech" /></p>
-
